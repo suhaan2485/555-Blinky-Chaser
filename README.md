@@ -5,4 +5,5 @@ Softwares used: KiCad, Google Chrome.
 
 I have made a simple Blinky Chaser PCB which will repeat 10 LEDs light in a specific sequence using simple resistors, capacitors and the main NE555 Module.
 
-<img width="511" height="485" alt="PCB 3D View" src="https://github.com/user-attachments/assets/4219bc16-6035-4641-a24b-cdac05fa0784" />
+<img width="605" height="672" alt="PCB 3D View" src="https://github.com/user-attachments/assets/053e85d9-bd4e-445a-9739-67993ae3d57a" />
+
