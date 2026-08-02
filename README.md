@@ -6,12 +6,14 @@ Softwares used: KiCad, Google Chrome.
 I have made a simple Blinky Chaser PCB which will repeat 10 LEDs light in a specific sequence using simple resistors, capacitors and the main NE555 Module,
 You Can See the Live Demo Video Below or checout the "Live Demo.mp4" linked in this repo. 
 
+# Schematics:
+<img width="1097" height="600" alt="Schematics" src="https://github.com/user-attachments/assets/038a7720-1e98-4b49-b8c9-8270dc869830" />
+
+# PCB Layout:
+<img width="683" height="666" alt="PCB Layout" src="https://github.com/user-attachments/assets/f33d48af-107b-40e0-be29-1d74bd6cc1d3" />
 
 # PCB 3D View:
 <img width="605" height="672" alt="PCB 3D View" src="https://github.com/user-attachments/assets/053e85d9-bd4e-445a-9739-67993ae3d57a" />
-
-# Soldered Board:
-<img width="454" height="613" alt="image" src="https://github.com/user-attachments/assets/1b6d006f-c9cb-4485-b944-6cc63b7a0d07" />
 
 
 # Bill Of Material:
@@ -30,6 +32,9 @@ You Can See the Live Demo Video Below or checout the "Live Demo.mp4" linked in t
 | U1 | 1 | NE555P |  |  |  | Package_DIP:DIP-8_W7.62mm | http://www.ti.com/lit/ds/symlink/ne555.pdf |
 | U2 | 1 | 4017 |  |  |  | Package_DIP:DIP-16_W7.62mm | http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf |
 
+
+# Soldered Board:
+<img width="454" height="613" alt="image" src="https://github.com/user-attachments/assets/1b6d006f-c9cb-4485-b944-6cc63b7a0d07" />
 
 # PCB Live Demo Video:
 https://github.com/user-attachments/assets/2a811b2b-bb50-4437-af52-b02a34f7b085
