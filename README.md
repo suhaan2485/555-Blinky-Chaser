@@ -23,6 +23,7 @@ You Can See the Live Demo Video Below or checout the "Live Demo.mp4" linked in t
 | D1,D2,D3,D4,D5,D6,D7,D8,D9,D10 | 10 | LED |  |  |  | LED_THT:LED_D3.0mm |  |
 | J1 | 1 | Conn_01x02_Socket |  |  |  | Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical |  |
 | J2 | 1 | Conn_01x01_Socket |  |  |  | Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical |  |
+| J1 (+V) | 1 | 9V |  |  |  | Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical |  |
 | R1 | 1 | 470 |  |  |  | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal |  |
 | R3 | 1 | 1k |  |  |  | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal |  |
 | RV2 | 1 | 50K |  |  |  | Potentiometer_THT:Potentiometer_Vishay_T93YA_Vertical |  |
